@@ -1,1 +1,2 @@
 this is a git test,new file
+now add a new line,this line
